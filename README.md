@@ -3,13 +3,13 @@
 
 User           ::  Amirust
 Languages      ::  🇷🇺 Русский, 🇺🇸 English
-Operating Sys  ::  Linux (Arch, OpenSUSE)
-Editor         ::  Visual Studio Code, Vim
+Operating Sys  ::  Linux (Arch)
+Editor         ::  Visual Studio Code, Intelijj Idea, WebStorm
 
 > skills
 
 Languages      ::  JavaScript, Dart, Java
-Specialization ::  Backend, Netcode, Software, Linux Tech Admin.
+Specialization ::  Backend, Netcode, Software, Senior SIGSEGV engineer
 Database       ::  MongoDB, Redis
 Cloud          ::  Oracle Cloud, Yandex Cloud, Heroku
 Interests      ::  Писать свою вариацию всего, качать 60 ГБайт по UDP, Сетевые протоколы
