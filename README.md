@@ -28,12 +28,6 @@
 </div>
 
 ###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Matrix&logo=matrix&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="matrix logo"  />
-</div>
-
-###
 ```erl
 > userinfo
 
