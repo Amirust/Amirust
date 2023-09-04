@@ -1,13 +1,14 @@
-<div align="center">
+<img align="right" height="450" src="https://files.rinisle.uk/FzsKyxTaIAINjdu.jpg"  />
+
+###
+
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=amirust&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amirust&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/57226653?v=4"  />
-
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
