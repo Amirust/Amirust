@@ -1,5 +1,3 @@
-<img align="right" height="450" src="https://s3.rinisle.uk/FzsKyxTaIAINjdu.jpg"  />
-
 ###
 
 <div align="left">
