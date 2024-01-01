@@ -31,10 +31,10 @@
 > userinfo
 
 User           ::  Mirosław Chodorowski
-Languages      ::  🇷🇺 Русский, 🇺🇸 English
-Operating Sys  ::  Linux (Arch)
-Editor         ::  Visual Studio Code, Intelijj Idea, WebStorm
-Languages      ::  JavaScript, Dart, Java
+Languages      ::  🇷🇺 Русский, 🇺🇸 English, 🇵🇱 Polski
+Operating Sys  ::  Arch (Work), Debian (Server)
+Editor         ::  Visual Studio Code, Intelijj Idea
+Languages      ::  TypeScript, Java, Dart
 Specialization ::  Backend, Netcode, Software, Senior SIGSEGV engineer
 ```
 ###
