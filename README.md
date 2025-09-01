@@ -30,7 +30,6 @@
 ```erl
 > userinfo
 
-User           ::  Mirosław Chodorowski
 Languages      ::  🇷🇺 Русский, 🇺🇸 English, 🇵🇱 Polski, 🇩🇪 Deutsch
 Operating Sys  ::  Win 11 (Work), Debian/Proxmox (Server)
 Editor         ::  Intelijj Idea
